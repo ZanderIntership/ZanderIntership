@@ -14,7 +14,7 @@
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZanderIntership&show_icons=true&theme=tokyonight)
-[![Total Commits](https://img.shields.io/github/commit-activity/t/ZanderIntership/YourRepo)](https://github.com/YourUsername/YourRepo/commits)
+[![Total Commits](https://img.shields.io/github/commit-activity/t/ZanderIntership/YourRepo)](https://github.com/ZanderIntership/YourRepo/commits)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZanderIntership&layout=compact&theme=tokyonight)
 
 ---
