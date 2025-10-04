@@ -1,8 +1,4 @@
 <!-- Profile Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ZanderIntership/YourRepo/main/assets/banner.png" ...>
-</p>
-
 ## 👋 Hey there! I'm Zander  
 
 ### 🚀 Tech Stack & Tools
