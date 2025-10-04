@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://your-banner-link-here" alt="Profile Banner" width="100%">
+  <img src="https://www.peakpx.com/en/hd-wallpaper-desktop-avbci" alt="Profile Banner" width="100%">
 </p>
 
 ## 👋 Hey there! I'm Zander  
@@ -28,8 +28,5 @@
 
 ---
 
-### 🎧 Now Playing (Spotify)
-[![Spotify](https://novatorem-Zander.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
----
 
