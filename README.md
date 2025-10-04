@@ -3,7 +3,7 @@
   <img src="https://your-banner-link-here" alt="Profile Banner" width="100%">
 </p>
 
-## 👋 Hey there! I'm [Your Name]  
+## 👋 Hey there! I'm Zander  
 
 ### 🚀 Tech Stack & Tools
 <p>
@@ -29,7 +29,7 @@
 ---
 
 ### 🎧 Now Playing (Spotify)
-[![Spotify](https://novatorem-ZanderIntership.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+[![Spotify](https://novatorem-Zander.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
 ---
 
