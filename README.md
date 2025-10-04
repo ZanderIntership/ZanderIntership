@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://www.peakpx.com/en/hd-wallpaper-desktop-avbci" alt="Profile Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/ZanderIntership/YourRepo/main/assets/banner.png" ...>
 </p>
 
 ## 👋 Hey there! I'm Zander  
