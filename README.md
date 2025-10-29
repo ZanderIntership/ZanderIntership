@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
 ## 👋 Hey there! I'm Zander  
 
-### 🚀 Tech Stack & Tools
+### 🚀 Tech Stack & Tools Used During Internship
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scratch-FF7B26?style=for-the-badge&logo=scratch&logoColor=white"/>
@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask badge"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# badge"/>
+  <img src="https://img.shields.io/badge/AL-512BD4?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="AL badge"/>
+
 
 
 
