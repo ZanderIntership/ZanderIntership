@@ -30,7 +30,7 @@
 ### 📊 GitHub Stats during Internship
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZanderIntership&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZanderIntership&theme=tokyonight)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZanderIntership&layout=compact&theme=radical&langs_count=15)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZanderIntership&layout=compact&theme=radical&langs_count=10)
 
 
 
