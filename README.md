@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask badge"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# badge"/>
   <img src="https://img.shields.io/badge/AL-512BD4?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="AL badge"/>
+  <img src="https://img.shields.io/badge/n8n-FF6F00?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n badge"/>
+
 
 
 
