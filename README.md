@@ -34,6 +34,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZanderIntership&theme=tokyonight)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZanderIntership&layout=compact&theme=radical&langs_count=10)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Zander_Intern66?theme=dark&font=Karma&ext=heatmap)
+https://leetcode-stats-api.herokuapp.com/{Zander_Intern66}
+
 
 
 
