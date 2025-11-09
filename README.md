@@ -31,7 +31,7 @@
 
 ### 📊 GitHub Stats during Internship
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZanderIntership&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZanderIntership&layout=compact&theme=radical&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZanderIntership&layout=compact&theme=radical&langs_count=11)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Zander_Intern66?theme=dark&font=Karma&ext=heatmap)
 
 
