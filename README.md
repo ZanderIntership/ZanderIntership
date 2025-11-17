@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/n8n-FF6F00?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n badge"/>
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ badge"/>
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake badge"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI badge"/>
+
 
 
 
