@@ -52,7 +52,7 @@
 
 ## 🚀 Featured Projects  
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suman319dega&theme=radical" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZanderIntership&theme=radical" alt="Profile Summary"/>
 </div>
 
 ---
