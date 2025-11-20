@@ -49,8 +49,11 @@
 
 -----
 
-### 🔥 Contribution Graph during Internship
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZanderIntership&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🚀 Featured Projects  
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suman319dega&theme=radical" alt="Profile Summary"/>
+</div>
 
 ---
 
