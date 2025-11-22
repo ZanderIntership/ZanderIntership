@@ -57,3 +57,9 @@
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZanderIntership&layout=compact&theme=radical&langs_count=11)
+
+
+## 🚀 Commit Timeline  
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZanderIntership&theme=radical" alt="Profile Summary"/>
+</div>
