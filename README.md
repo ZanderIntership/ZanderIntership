@@ -4,8 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=👋+Hey%2C+I'm+Zander+Wepener;💻+Developer+Intern+%26+Problem+Solver;🎯" alt="Typing SVG" />
 
 
-  <img src="https://komarev.com/ghpvc/?username=ZanderIntership&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge" alt="Profile Views" />
-  &nbsp;
+
  
 
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="700" alt="coding gif" />
