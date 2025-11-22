@@ -18,10 +18,8 @@
 ## 🧠 Competitive Coding & Problem Solving  
 
 🚀 **LeetCode Stats:**  
-- 🧩 Solved **350+ problems** across Easy, Medium & Hard.  
-- 💪 Strong in **Dynamic Programming, Graphs, Sliding Window, Binary Search, Recursion, and Hashing**.  
-- 🧠 Focused on **writing optimal, readable, and scalable C++ solutions**.  
-- 🏆 Active participant in **LeetCode Contests & DSA Challenges**.
+- 🧩 Solved **75+ problems** across Easy, Medium & Hard.  
+
 
 <div align="center">
   <a href="https://leetcode.com/u/degasumanth/">
