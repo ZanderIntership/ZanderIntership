@@ -56,6 +56,7 @@
 </div>
 
 ---
+## 🧑‍💻 Top Langauges
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZanderIntership&layout=compact&theme=radical&langs_count=11)
 
 
