@@ -17,7 +17,7 @@
 ## 🧠 Competitive Coding & Problem Solving  
 
 🚀 **LeetCode Stats:**  
-- 🧩 Solved **75+ problems** across Easy, Medium & Hard.  
+- 🧩 Solved **85+ problems** across Easy, Medium & Hard.  
 
 
 <div align="center">
