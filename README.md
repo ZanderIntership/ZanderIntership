@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Typing Title -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=👋+Hey%2C+I'm+Zander+Wepener;💻+Developer+Intern+%26+Problem+Solver;🎯" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=👋+Hey%2C+I'm+Zander+Wepener;💻+Developer+Intern+%26+Problem+Solver;" alt="Typing SVG" />
 
 
 
