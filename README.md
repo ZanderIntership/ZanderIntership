@@ -32,7 +32,13 @@
 🚀 **HackerRank Stats:**
 
 
-[![HackerRank badges](https://hackerrank-badges.vercel.app/zanderwepener5)](https://hackerrank.com/profile/zanderwepener5/)
+<div align="center">
+  <img
+    src="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=zanderwepener5"
+    alt="HackerRank Stats"
+  />
+</div>
+
 
 
 
