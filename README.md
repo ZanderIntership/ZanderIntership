@@ -33,7 +33,7 @@
 
 
 <div align="center">
-  ![HackerRank Stats](https://hackerrank-stats.vercel.app/api?username=Zander Wepener)
+  ![HackerRank Stats](https://hackerrank-stats.vercel.app/api?username=zanderwepener5)
 </div>
 
 ### 🚀 Tech Stack & Tools Used During Internship
