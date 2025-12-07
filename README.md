@@ -76,7 +76,7 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ZanderIntership&show_icons=true&theme=radical&hide_border=true&border_radius=15" 
+    src="https://github-readme-stats.vercel.app/api?username=ZanderIntership&show_icons=true&theme=radical&hide_border=true&border_radius=15&cache_seconds=1800" 
     height="165px"
     alt="GitHub Stats"
   />
@@ -87,11 +87,13 @@
   />
 </div>
 
+
 ---
 
 ## 🧑‍💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZanderIntership&layout=compact&theme=radical&langs_count=11)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZanderIntership&layout=compact&theme=radical&langs_count=11&cache_seconds=1800)
+
 
 ---
 
