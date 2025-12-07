@@ -33,8 +33,12 @@
 
 
 <div align="center">
-  ![HackerRank Stats](https://hackerrank-stats.vercel.app/api?username=zanderwepener5)
+  <a href="https://www.hackerrank.com/profile/zanderwepener5">
+    <img src="https://hackerrank-stats.vercel.app/api?username=zanderwepener5" alt="HackerRank Stats" />
+  </a>
 </div>
+
+
 
 ### 🚀 Tech Stack & Tools Used During Internship
 <p>
