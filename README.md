@@ -33,11 +33,14 @@
 
 
 <div align="center">
-  <img
-    src="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=zanderwepener5"
-    alt="HackerRank Stats"
-  />
+  <a href="https://www.hackerrank.com/profile/zanderwepener5">
+    <img
+      src="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=zanderwepener5"
+      alt="HackerRank Stats"
+    />
+  </a>
 </div>
+
 
 
 
