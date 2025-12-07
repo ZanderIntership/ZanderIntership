@@ -28,6 +28,14 @@
 
 ---
 
+
+🚀 **HackerRank Stats:**
+
+
+<div align="center">
+  ![HackerRank Stats](https://hackerrank-stats.vercel.app/api?username=Zander Wepener)
+</div>
+
 ### 🚀 Tech Stack & Tools Used During Internship
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
