@@ -74,18 +74,16 @@
 
 ## 📈 GitHub Analytics
 
-<!-- NOTE:
-Replace "zanderwepener" below if your GitHub username is different.
--->
-
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=zanderwepener&show_icons=true&theme=radical&hide_border=true&border_radius=15" 
+    src="https://github-readme-stats.vercel.app/api?username=ZanderIntership&show_icons=true&theme=radical&hide_border=true&border_radius=15" 
     height="165px"
+    alt="GitHub Stats"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=zanderwepener&theme=radical&hide_border=true&border_radius=15" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=ZanderIntership&theme=radical&hide_border=true&border_radius=15" 
     height="165px"
+    alt="GitHub Streak"
   />
 </div>
 
@@ -93,7 +91,7 @@ Replace "zanderwepener" below if your GitHub username is different.
 
 ## 🧑‍💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zanderwepener&layout=compact&theme=radical&langs_count=11)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZanderIntership&layout=compact&theme=radical&langs_count=11)
 
 ---
 
@@ -101,7 +99,7 @@ Replace "zanderwepener" below if your GitHub username is different.
 
 <div align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanderwepener&theme=radical" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZanderIntership&theme=radical" 
     alt="Profile Summary"
   />
 </div>
