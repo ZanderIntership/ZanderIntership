@@ -45,7 +45,7 @@
     <img
       src="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=zanderwepener5"
       alt="HackerRank Stats"
-      width="420"
+      style="max-width: 520px; width: 100%; height: auto;"
     />
   </a>
 </div>
