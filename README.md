@@ -32,11 +32,8 @@
 🚀 **HackerRank Stats:**
 
 
-<div align="center">
-  <a href="https://www.hackerrank.com/profile/zanderwepener5">
-    <img src="https://hackerrank-stats.vercel.app/api?username=zanderwepener5" alt="HackerRank Stats" />
-  </a>
-</div>
+[![HackerRank badges](https://hackerrank-badges.vercel.app/zanderwepener5)](https://hackerrank.com/profile/zanderwepener5/)
+
 
 
 
