@@ -53,24 +53,62 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools Used During Internship
-
+<!-- =======================
+     AUTOMATION STACK
+======================== -->
+<h3 align="center">⚙️ Automation Stack</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scratch-FF7B26?style=for-the-badge&logo=scratch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-FF6F00?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
+
+<!-- =======================
+     WEB DEV STACK
+======================== -->
+<h3 align="center">🌐 Web Dev Stack</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AL-512BD4?style=for-the-badge&logo=altiumdesigner&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-FF6F00?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
+
+<!-- =======================
+     DATA / DATABASE STACK
+======================== -->
+<h3 align="center">🗄️ Data & Database Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+</p>
+
+<!-- =======================
+     VISUALIZATION STACK
+======================== -->
+<h3 align="center">📊 Visualization Stack</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
+
+<!-- =======================
+     PROGRAMMING STACK
+======================== -->
+<h3 align="center">💻 Programming Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</p>
+
+<!-- =======================
+     OTHER / TOOLS
+======================== -->
+<h3 align="center">🧰 Other Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Scratch-FF7B26?style=for-the-badge&logo=scratch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AL-512BD4?style=for-the-badge&logo=altiumdesigner&logoColor=white"/>
+</p>
+
 
 ---
 
