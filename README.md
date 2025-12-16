@@ -132,7 +132,7 @@
 
 ## 🧑‍💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZanderIntership&layout=compact&theme=radical&langs_count=11&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZanderIntership&layout=compact&theme=radical&langs_count=14&cache_seconds=100)
 
 
 ---
