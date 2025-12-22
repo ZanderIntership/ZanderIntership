@@ -17,7 +17,7 @@
 
   <br/><br/>
 
-  <!-- Divider -->
+  <!-- Divider --->
   <hr style="width:80%; border: 1px solid #00E5FF; border-radius: 5px;" />
 
 </div>
