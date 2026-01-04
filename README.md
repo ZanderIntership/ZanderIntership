@@ -1,71 +1,53 @@
 <div align="center">
 
-  <!-- Animated Typing Title -->
-<img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=👋+Hey%2C+I'm+Zander+Wepener;💻+Developer+Intern+%26+Problem+Solver;" 
-    alt="Typing SVG" 
-  /> 
-
-  <br/>
-
-  <!-- Coding GIF
-    <!--  <img 
-    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
-    width="700" 
-    alt="coding gif"  -->
-   
-  
-
-  <br/><br/>
-
-  <!-- Divider --->
-  <hr style="width:80%; border: 1px solid #00E5FF; border-radius: 5px;" />
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Zander+Wepener;Developer+Intern+%26+Problem+Solver"
+  alt="Typing SVG"
+/>
 
 </div>
 
-## 🧠 Competitive Coding & Problem Solving  
+---
 
-### 🚀 LeetCode Stats  
-- 🧩 Solved **100+ problems** across Easy, Medium & Hard.  
+## 👋 About Me
+
+I am a **Developer Intern** with a strong focus on **competitive programming, automation, and web development**.  
+I enjoy solving complex problems, building practical systems, and continuously improving my technical depth.
+
+---
+
+## 🧠 Competitive Programming
+
+### 🚀 LeetCode
+- Solved **100+ problems** across Easy, Medium, and Hard
 
 <div align="center">
   <a href="https://leetcode.com/u/Zander_Intern66/">
-    <img 
-      src="https://leetcard.jacoblin.cool/Zander_Intern66?theme=dark&font=Fira%20Code&ext=heatmap" 
-      alt="LeetCode Stats" 
+    <img
+      src="https://leetcard.jacoblin.cool/Zander_Intern66?theme=dark&font=Fira%20Code&ext=heatmap"
+      alt="LeetCode Stats"
     />
   </a>
 </div>
 
 ---
 
-### 🚀 HackerRank Stats  
+### 🚀 HackerRank
 
 <div align="center">
   <a href="https://www.hackerrank.com/profile/zanderwepener5">
     <img
       src="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=zanderwepener5"
       alt="HackerRank Stats"
-      style="max-width: 520px; width: 100%; height: auto;"
     />
   </a>
 </div>
 
-
 ---
 
-<!-- =======================
-     AUTOMATION STACK
-======================== -->
-<h3 align="center">⚙️ Automation Stack</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n-FF6F00?style=for-the-badge&logo=n8n&logoColor=white"/>
-</p>
+## ⚙️ Technology Stack
 
-<!-- =======================
-     WEB DEV STACK
-======================== -->
-<h3 align="center">🌐 Web Dev Stack</h3>
+### 🌐 Web Development
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -73,27 +55,24 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
-<!-- =======================
-     DATA / DATABASE STACK
-======================== -->
-<h3 align="center">🗄️ Data & Database Stack</h3>
+---
+
+### 🗄️ Data & Databases
 <p align="center">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
 </p>
 
-<!-- =======================
-     VISUALIZATION STACK
-======================== -->
-<h3 align="center">📊 Visualization Stack</h3>
+---
+
+### 📊 Visualization
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-<!-- =======================
-     PROGRAMMING STACK
-======================== -->
-<h3 align="center">💻 Programming Stack</h3>
+---
+
+### 💻 Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -101,48 +80,52 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
 
-<!-- =======================
-     OTHER / TOOLS
-======================== -->
-<h3 align="center">🧰 Other Tools</h3>
+---
+
+### 🧰 Tools & Platforms
 <p align="center">
+  <img src="https://img.shields.io/badge/n8n-FF6F00?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scratch-FF7B26?style=for-the-badge&logo=scratch&logoColor=white"/>
   <img src="https://img.shields.io/badge/AL-512BD4?style=for-the-badge&logo=altiumdesigner&logoColor=white"/>
 </p>
-
 
 ---
 
 ## 📈 GitHub Analytics
 
+> GitHub Username: **ZanderIntership**
+
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ZanderIntership&show_icons=true&theme=radical&hide_border=true&border_radius=15&cache_seconds=1800" 
-    height="165px"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ZanderIntership&show_icons=true&theme=radical&hide_border=true"
+    height="165"
     alt="GitHub Stats"
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=ZanderIntership&theme=radical&hide_border=true&border_radius=15" 
-    height="165px"
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=ZanderIntership&theme=radical&hide_border=true"
+    height="165"
     alt="GitHub Streak"
   />
 </div>
-
 
 ---
 
 ## 🧑‍💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZanderIntership&layout=compact&theme=radical&langs_count=14&cache_seconds=100)
-
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanderIntership&layout=compact&theme=radical"
+    alt="Top Languages"
+  />
+</div>
 
 ---
 
-## 🚀 Commit Timeline  
+## 📌 Summary
 
-<div align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZanderIntership&theme=radical" 
-    alt="Profile Summary"
-  />
-</div>
+- Strong foundation in **problem solving and algorithms**
+- Practical experience across **web, automation, and data**
+- Actively growing through **competitive programming**
+
+---
+
